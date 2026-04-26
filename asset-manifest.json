@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/milliform/static/css/main.28bb6125.css",
+    "main.js": "/milliform/static/js/main.3a7629d2.js",
+    "index.html": "/milliform/index.html",
+    "main.28bb6125.css.map": "/milliform/static/css/main.28bb6125.css.map",
+    "main.3a7629d2.js.map": "/milliform/static/js/main.3a7629d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28bb6125.css",
+    "static/js/main.3a7629d2.js"
+  ]
+}
