@@ -3,7 +3,6 @@
 A modern, responsive React website for a luxury bespoke kitchen company, inspired by Italian design excellence.
 
 ## Features
-
 - **Fully Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
 - **Modern React Architecture** - Built with React 18 and React Router
 - **Beautiful UI/UX** - Elegant design inspired by luxury Italian kitchen brands
